@@ -1,4 +1,4 @@
-# 100-days-of-cuda
+# 100-days-of-gpu
 
 This repo is documenting my journey to become a CUDA Warrior:
 
